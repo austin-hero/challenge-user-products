@@ -1,5 +1,7 @@
 # Web Solutions NYC Code Challenge
 
+![quote application example](challenge.gif)
+
 ## Setting up environment
 
 - Install Node 12.18.3
@@ -7,4 +9,11 @@
 - Install dependencies `yarn install`
 - Run the app `yarn start`
 
-## Deploying app
+## Technologies
+
+- ReactJS (Create React App)
+- Funciton Components with Hooks
+- Redux
+- React-Router
+- React-Bootstrap
+- SCSS
